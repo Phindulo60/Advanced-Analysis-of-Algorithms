@@ -1,4 +1,4 @@
-# Data-Visualization-and-Exploration
+# Advanced-Analysis-of-Algorithms
 This repository will consist of all the programming assessments i had for a Wits University honours course(Data Visualization and Exploration)
 
 
