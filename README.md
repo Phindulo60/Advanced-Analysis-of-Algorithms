@@ -1,5 +1,5 @@
 # Advanced-Analysis-of-Algorithms
-This repository will consist of all the programming assessments i had for a Wits University honours course(Data Visualization and Exploration)
+This repository will consist of all the programming assessments i had for a Wits University honours course(Advanced Analysis of Algorithms)
 
 
 ## Congo Game Design and Implementation
